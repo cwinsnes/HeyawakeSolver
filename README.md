@@ -8,4 +8,4 @@ The program requires gringo 3 and clasp to be installed. Run the application usi
 
 To check if an input room is of the correct format, use the program Testgrid: java Testgrid <room>. If the output is "Done", the room has the correct format.
 
-Fancy output (i.e. a solved puzzle with white and black squares) can be gotten by using "gringo <room to test> | clasp | java test/Parser
+Fancy output (i.e. a solved puzzle with white and black squares) can be gotten by using "gringo <room to test> | clasp | java Parser
