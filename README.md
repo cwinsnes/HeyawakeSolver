@@ -1,5 +1,6 @@
 # HeyawakeSolver
 Program written in LParse to solve Heyawake puzzles
+The program was written by Casper Winsnes, and Gustav Zander as part of the Bachelor's thesis work.
 
 
 The folder rooms contains the rooms used to test application. The actual solver is in heyawakerules.lp
